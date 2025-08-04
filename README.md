@@ -1,5 +1,8 @@
 # ECE699B
 
+Data used: City of Cincinnati: Fleet Preventative Maintenance & Repair Work Orders (https://data.cincinnati-oh.gov/Thriving-Neighborhoods/Fleet-Preventative-Maintenance-Repair-Work-Orders/2a8x-bxjm/about_data)
+
+
 LLM code (LLM.ipynb):
 1. We can run the code using this colab file: https://colab.research.google.com/drive/1JFqPpI4q2ORFcts-Fe_HDJ5VKuly0UWi?authuser=7#scrollTo=b1xj6P-2nOpt
    No need to connect to google drive, it will fetch dataset with the help of API directly
